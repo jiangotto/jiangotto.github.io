@@ -1,17 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title>Hello World</title>
-    <url>/2020/01/23/hello-world/</url>
-    <content><![CDATA[<p>​    <font size="4">第二次建个人博客了，想简单写一下自己的一些感受。</font></p>
-<p>​    <font size="4">还记得高中时除尝建站的滋味，买云服务器，买域名，用WordPress建站，折腾了很久，也做得很丑。草草写了几篇Blog，便弃坑了。</font></p>
-<p>​    <font size="4">不知道为何，现在突然又燃起了对个人博客的兴致，便学着用Hexo+GitHub搭了这个小破站，以后可以忙里偷闲维护一下。</font></p>
-<p>​    <font size="4">看到本站的top image应该看得出来我的兴趣所在，以后应该会分享一些个人小项目。</font></p>
-<p>​    <font size="4"><del>希望我的小破站能一直活下去吧。</del></font></p>
-<p>​    <font size="5"><strong>:)</strong></font>  </p>
-]]></content>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2020/01/23/hello-world/"/>
+      <url>/2020/01/23/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>​    <font size="4">第二次建个人博客了，想简单写一下自己的一些感受。</font></p><p>​    <font size="4">还记得高中时除尝建站的滋味，买云服务器，买域名，用WordPress建站，折腾了很久，也做得很丑。草草写了几篇Blog，便弃坑了。</font></p><p>​    <font size="4">不知道为何，现在突然又燃起了对个人博客的兴致，便学着用Hexo+GitHub搭了这个小破站，以后可以忙里偷闲维护一下。</font></p><p>​    <font size="4">看到本站的top image应该看得出来我的兴趣所在，以后应该会分享一些个人小项目。</font></p><p>​    <font size="4"><del>希望我的小破站能一直活下去吧。</del></font></p><p>​    <font size="5"><strong>:)</strong></font>  </p>]]></content>
+      
+      
       <categories>
-        <category>杂</category>
+          
+          <category> 杂 </category>
+          
       </categories>
-  </entry>
+      
+      
+    </entry>
+    
+    
+  
+  
 </search>
