@@ -1,49 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>先挖个小坑~</title>
-      <link href="/2020/03/04/e-paper-display-cube/"/>
-      <url>/2020/03/04/e-paper-display-cube/</url>
-      
-        <content type="html"><![CDATA[<p><a href="/.com//D:%5CBlog%5Cthemes%5CButterfly%5Csource%5Cimg%5Ce-paper-display-cube%5C%E8%A3%B8%E6%9D%BF-min.jpg" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="/.com//D:%5CBlog%5Cthemes%5CButterfly%5Csource%5Cimg%5Ce-paper-display-cube%5C%E8%A3%B8%E6%9D%BF-min.jpg" class="lazyload"></a></p><p>灵感来源于<a href="http://www.pengzhihui.xyz/2017/04/02/inkbox/" target="_blank" rel="noopener">彭稚晖大神早年的小作品</a>，主控改为了atmega1284p。</p><p>由于疫情原因，至今还没回校，物料也没买😭，年前打的板子也最近才收到，所以先占个坑吧。</p>]]></content>
-      
-      
+<search>
+  <entry>
+    <title>先挖个小坑~</title>
+    <url>/2020/03/04/e-paper-display-cube/</url>
+    <content><![CDATA[<p><a href="/.com//D:%5CBlog%5Cthemes%5CButterfly%5Csource%5Cimg%5Ce-paper-display-cube%5C%E8%A3%B8%E6%9D%BF-min.jpg" data-fancybox="group" data-caption class="fancybox"><img alt title data-src="/.com//D:%5CBlog%5Cthemes%5CButterfly%5Csource%5Cimg%5Ce-paper-display-cube%5C%E8%A3%B8%E6%9D%BF-min.jpg" class="lazyload"></a></p>
+<p>灵感来源于<a href="http://www.pengzhihui.xyz/2017/04/02/inkbox/" target="_blank" rel="noopener">彭稚晖大神早年的小作品</a>，主控改为了atmega1284p。</p>
+<p><del>由于疫情原因，至今还没回校，物料也没买😭，年前打的板子也最近才收到，所以先占个坑吧。</del></p>
+<p>累了，不想搞了😅。</p>
+]]></content>
       <categories>
-          
-          <category> 项目 </category>
-          
-          <category> Arduino </category>
-          
-          <category> 墨水屏 </category>
-          
+        <category>项目</category>
+        <category>Arduino</category>
+        <category>墨水屏</category>
       </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/2020/01/23/hello-world/"/>
-      <url>/2020/01/23/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>​    <font size="4">第二次建个人博客了，想简单写一下自己的一些感受。</font></p><p>​    <font size="4">还记得高中时除尝建站的滋味，买云服务器，买域名，用WordPress建站，折腾了很久，也做得很丑。草草写了几篇Blog，便弃坑了。</font></p><p>​    <font size="4">不知道为何，现在突然又燃起了对个人博客的兴致，便学着用Hexo+GitHub搭了这个小破站，以后可以忙里偷闲维护一下。</font></p><p>​    <font size="4">看到本站的top image应该看得出来我的兴趣所在，以后应该会分享一些个人小项目。</font></p><p>​    <font size="4"><del>希望我的小破站能一直活下去吧。</del></font></p><p>​    <font size="5"><strong>:)</strong></font>  </p>]]></content>
-      
-      
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2020/01/23/hello-world/</url>
+    <content><![CDATA[<p>​    <font size="4">第二次建个人博客了，想简单写一下自己的一些感受。</font></p>
+<p>​    <font size="4">还记得高中时除尝建站的滋味，买云服务器，买域名，用WordPress建站，折腾了很久，也做得很丑。草草写了几篇Blog，便弃坑了。</font></p>
+<p>​    <font size="4">不知道为何，现在突然又燃起了对个人博客的兴致，便学着用Hexo+GitHub搭了这个小破站，以后可以忙里偷闲维护一下。</font></p>
+<p>​    <font size="4">看到本站的top image应该看得出来我的兴趣所在，以后应该会分享一些个人小项目。</font></p>
+<p>​    <font size="4"><del>希望我的小破站能一直活下去吧。</del></font></p>
+<p>​    <font size="5"><strong>:)</strong></font>  </p>
+]]></content>
       <categories>
-          
-          <category> 杂 </category>
-          
+        <category>杂</category>
       </categories>
-      
-      
-    </entry>
-    
-    
-  
-  
+  </entry>
 </search>
